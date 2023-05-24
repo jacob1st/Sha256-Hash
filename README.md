@@ -5,6 +5,8 @@ The algorithm is outlined very clearly here: https://nvlpubs.nist.gov/nistpubs/F
 
 https://www.youtube.com/watch?v=orIgy2MjqrA is a fantastic video that goes over every step of the algorithm.
 
+----
 My first real attempt at a project in cpp!
+![image](https://github.com/jacob1st/Sha256-Hash/blob/main/Images/hashImage.PNG)
 
 
